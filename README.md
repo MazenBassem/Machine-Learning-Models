@@ -11,9 +11,10 @@
 
 ## Overview
 
-Explore real-world machine learning problems with concise code, clear explanations, and visualizations. Each task demonstrates end-to-end workflows—from data prep to model evaluation—for education and experimentation.
+Explore real-world machine learning problems with concise code, clear explanations, and visualizations. Each task demonstrates end-to-end workflows—from data prep to model evaluation—for educational and practical learning.
 
 ---
+
 ## 🗂️ Project Structure
 
 ```
@@ -40,11 +41,18 @@ Machine-Learning-Models/
 ## 📂 Tasks & Models
 
 ### 📝 1. Student Score Prediction
-- **Notebook:** [View](Task%201:%20Student%20Score%20Prediction/Task_1_Student_Score_Prediction.ipynb) | **Dataset:** [CSV](Task%201:%20Student%20Score%20Prediction/StudentPerformanceFactors.csv) | **Utils:** [Python](Task%201:%20Student%20Score%20Prediction/utils.py)
+- **Notebook:** [View](Task%201:%20Student%20Score%20Prediction/Task_1_Student_Score_Prediction.ipynb) | **Dataset:** [CSV](Task%201:%20Student%20Score%20Prediction/StudentPerformanceFactors.csv)
 - **Goal:** Predict student exam scores from various performance factors.
 - **Key Models:** Linear Regression, Ridge Regression
 - **Highlights:** Data cleaning, feature engineering, regression analysis, metric comparison  
-![Student Score Prediction Results](images/student_score_plot.png)
+
+<table>
+  <tr>
+    <td><img src="images/Score%20vs%20hours%20Studied.jpg" width="120"></td>
+    <td><img src="images/Polynomial%20Degree%20vs%20MSE.jpg" width="120"></td>
+    <td><img src="images/lambda%20vs%20MSE.jpg" width="120"></td>
+  </tr>
+</table>
 
 ---
 
@@ -53,7 +61,15 @@ Machine-Learning-Models/
 - **Goal:** Cluster mall customers for marketing insights.
 - **Key Models:** K-Means, DBSCAN
 - **Highlights:** Data preprocessing, cluster visualization, spending analysis, unsupervised learning  
-![Customer Segmentation Example](images/customer_segmentation_clusters.png)
+
+<table>
+  <tr>
+    <td><img src="images/kmeans%20clusters%20with%20centroids.jpg" width="120"></td>
+    <td><img src="images/DBSCAN%20Clustering.jpg" width="120"></td>
+    <td><img src="images/clusters%20averages%20(dbscan%20vs%20kmeans).jpg" width="120"></td>
+    <td><img src="images/Elbow%20methof%20for%20DBSCAN.jpg" width="120"></td>
+  </tr>
+</table>
 
 ---
 
@@ -62,7 +78,14 @@ Machine-Learning-Models/
 - **Goal:** Predict forest cover type using environmental features.
 - **Key Models:** XGBoost, Random Forest, Decision Tree
 - **Highlights:** Data cleaning, feature analysis, model comparison, hyperparameter tuning  
-![Forest Cover Confusion Matrix](images/forest_cover_confusion_matrix.png)
+
+<table>
+  <tr>
+    <td><img src="images/random%20forest%20perfomance.jpg" width="140"></td>
+    <td><img src="images/xgboost%20perfomance.jpg" width="140"></td>
+    <td><img src="images/Compare%20Model%20Perfomance.jpg" width="120"></td>
+  </tr>
+</table>
 
 ---
 
