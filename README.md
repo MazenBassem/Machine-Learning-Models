@@ -43,7 +43,7 @@ Machine-Learning-Models/
 ### 📝 1. Student Score Prediction
 - **Notebook:** [View](Task%201:%20Student%20Score%20Prediction/Task_1_Student_Score_Prediction.ipynb) | **Dataset:** [CSV](Task%201:%20Student%20Score%20Prediction/StudentPerformanceFactors.csv)
 - **Goal:** Predict student exam scores from various performance factors.
-- **Key Models:** Linear Regression, Ridge Regression
+- **Key Models:** Linear Regression, Ridge Regression, Polynomial Regression
 - **Highlights:** Data cleaning, feature engineering, regression analysis, metric comparison  
 
 <table>
