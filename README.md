@@ -91,6 +91,8 @@ Machine-Learning-Models/
 
 ## 🚀 Quickstart
 
+> **Tip:** You can instantly try the notebooks online using [Google Colab](https://colab.research.google.com/)—no setup needed!
+
 ```bash
 git clone https://github.com/MazenBassem/Machine-Learning-Models.git
 cd Machine-Learning-Models
@@ -100,6 +102,7 @@ jupyter notebook
 - Install dependencies as prompted in each notebook.
 
 ---
+
 
 ## 🤝 Contribute
 
