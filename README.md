@@ -50,7 +50,7 @@ Machine-Learning-Models/
   <tr>
     <td><img src="images/Score%20vs%20hours%20Studied.jpg" width="120"></td>
     <td><img src="images/Polynomial%20Degree%20vs%20MSE.jpg" width="120"></td>
-    <td><img src="images/lambda%20vs%20MSE.jpg" width="120"></td>
+    <td><img src="images/lambda%20vs%20MSE.png" width="120"></td>
   </tr>
 </table>
 
